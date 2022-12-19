@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jooyong-boo
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Languages & Library ✨</p>
 </div>
 <div align="center">
   	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
