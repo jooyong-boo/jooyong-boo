@@ -13,7 +13,6 @@
       	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white" />
       	<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styled-components&logoColor=white" />
       	<img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white" />
-      	<img src="https://img.shields.io/badge/ReduxToolkit-764ABC?style=flat&logo=Redux&logoColor=white" />
 	<br>
 </div>
 <br>
