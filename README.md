@@ -31,9 +31,6 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qnwndyd159)](https://solved.ac/qnwndyd159)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jooyong-boo)](https://github.com/jooyong-boo/github-readme-stats)<br/>
-  </div>
 
 <!---
 jooyong-boo/jooyong-boo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
